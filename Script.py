@@ -251,7 +251,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ░░░╚═╝░░░░░░╚═╝░░░  ╚═════╝░░╚════╝░░░░╚═╝░░░╚═════╝░"""
 
 
-MODULES2_TXT = """<b>my features Stay here new features coming soon...
+MODULES_info = """<b>my features Stay here new features coming soon...
 
 <b>✯ Maintained by : <a href=https://t.me/creatorrio>☢ Owner Of RIO NETWORKS ☢</a></b>
 
