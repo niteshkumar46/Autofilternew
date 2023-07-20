@@ -9,7 +9,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/creatorrio>☢ RIO NETWORKS ☢</a></b>
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Teamrioupdates>RIO Bot Updates 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>
-<b>My best friend❤️ : <a href={message.from_user.mention}>❤️This person😍</a></b>
+<b>My best friend❤️ : <a href=(temp.B_NAME)>❤️This person😍</a></b>
 <b>My server🛠️: HEROKU
 <b>My language: Python 
 <b>My database: Mongodb
@@ -221,7 +221,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
   Keep supporting nanba 
 ╚════ 😍😍😍😍😍 ════╝
 
-<a href={message.from_user.mention}>My Macha</a></b>""" 
+<a href=(temp.B_NAME)>My Macha</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
