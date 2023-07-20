@@ -1398,7 +1398,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "filters":
         buttons = [[
-            InlinekeyboardButton('🎁More Features🎁',callback_data='features'),
+            InlinekeyboardButton('🎁More Features🎁',callback_data='modules2'),
            ],[
             InlineKeyboardButton('Mᴀɴᴜᴀʟ FIʟᴛᴇʀ', callback_data='manuelfilter'),
             InlineKeyboardButton('Aᴜᴛᴏ FIʟᴛᴇʀ', callback_data='autofilter')
@@ -1437,7 +1437,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlinekeyboardButton('🎁More Features🎁',callback_data='features'),
+            InlinekeyboardButton('🎁More Features🎁',callback_data='modules2'),
            ],[
             InlineKeyboardButton('FIʟᴛᴇʀs', callback_data='filters'),
             InlineKeyboardButton('Fɪʟᴇ Sᴛᴏʀᴇ', callback_data='store_file')
