@@ -71,44 +71,10 @@ my features Stay here new features coming soon...
 
 <b>✯ Join here : <a href=https://t.me/Teamrioupdates>☢Join my updateds☢</a></b>
 
-Song download feature 👇
-
-  use this command /song song name this command work only bot pm don't work group 
-
-Example: /song vaa vaathi song
-
-
-2. Font generator 👇
-
- use this command /font write any text i generated cool and stylish text..
-
-Example : /font hi
-
-
-3.  Text To voice generator 👇
-
-   use this command /tts reply any text I give text to voice..
-
-
-4. ʜᴇʟᴘ: ᴛᴇʟᴇɢʀᴀᴘʜ ᴅᴏ ᴀꜱ ʏᴏᴜ ᴡɪꜱʜ ᴡɪᴛʜ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ᴍᴏᴅᴜʟᴇ!
-
-ᴜꜱᴀɢᴇ: /telegraph - ꜱᴇɴᴅ ᴍᴇ ᴘɪᴄᴛᴜʀᴇ ᴏʀ ᴠɪᴅᴇ ᴜɴᴅᴇʀ (5ᴍʙ)
-
-ɴᴏᴛᴇ:
-ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪꜱ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ Bot pm only 
-ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ʙʏ ᴇᴠᴇʀʏᴏɴᴇ
-
-
-5. YouTube video downloader 👇 
-
-   use this command /video give your video link wait 1minute i give your video with hd...
-
-Example : </code>/video https://youtu.be/Aiue8PMuD-k</code></b>"""
-
-6. /id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</
+./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</
 code>
 
-7. /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>"""
+./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>"""
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
 <b>ɴᴏᴛᴇ:</b>
