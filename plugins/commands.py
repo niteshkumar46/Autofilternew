@@ -3,7 +3,7 @@ import logging
 import random
 import asyncio
 from Script import script
-from pmfilter import features 
+from pmfilter import modules2 
 from pyrogram import Client, filters, enums
 from pyrogram.errors import ChatAdminRequired, FloodWait
 from pyrogram.types import *
@@ -1104,7 +1104,7 @@ InputMediaPhoto(random.choice(PICS))
         await query.message.edit_text(
             text=script.FEATURES_TXT.format(temp.B_NAME),
             reply_markup=reply_markup,
-            elif query.data == "features":
+            elif query.data == "modules2":
  parse_mode=enums.ParseMode.HTML
          )
          buttons = [[ 
