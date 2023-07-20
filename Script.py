@@ -290,8 +290,11 @@ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴛᴏ ᴄʜᴀɴɢᴇ �
 
 </b>"""
 
-FEATURES_TXT = """<b>my features Stay here new features coming soon...
+MODULES2_TXT = """<b>my features Stay here new features coming soon...
 
 <b>✯ Maintained by : <a href=https://t.me/creatorrio>☢ Owner Of RIO NETWORKS ☢</a></b>
 
-<b>✯ Join here : <a href=https://t.me/Teamrioupdates>☢Join my updateds☢</a></b>"""
+<b>✯ Join here : <a href=https://t.me/Teamrioupdates>☢Join my updateds☢</a></b>
+
+
+1. Song download 
