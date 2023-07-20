@@ -1573,7 +1573,6 @@ InputMediaPhoto(random.choice(PICS))
            
  parse_mode=enums.ParseMode.HTML
          )
-      elif query.data == "features": 
          buttons = [[ 
             InlineKeyboardButton('ꜱᴛɪᴄᴋᴇʀ', callback_data='sticker'), 
              InlineKeyboardButton('ᴛᴇʟᴇɢʀᴀᴘʜ', callback_data='telegraph'),
