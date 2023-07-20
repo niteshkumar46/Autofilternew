@@ -1098,25 +1098,6 @@ async def stop_button(bot, message):
 
 
  
-InputMediaPhoto(random.choice(PICS))
-        )
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await query.message.edit_text(
-            text=script.FEATURES_TXT.format(temp.B_NAME),
-            reply_markup=reply_markup,
-            elif query.data == "modules2":
- parse_mode=enums.ParseMode.HTML
-         )
-         buttons = [[ 
-            InlineKeyboardButton('ꜱᴛɪᴄᴋᴇʀ', callback_data='sticker'), 
-             InlineKeyboardButton('ᴛᴇʟᴇɢʀᴀᴘʜ', callback_data='telegraph'),
-         ], [ 
-             InlineKeyboardButton('ᴛᴛꜱ', callback_data='tts'), 
-             InlineKeyboardButton('ꜱᴏɴɢ', callback_data='song'), 
-            ], ] InlineKeyboardButton('ꜱʜᴏʀᴛɴᴇʀ', callback_data='shortlink_info'),
-         ], [
-             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'), 
-             InlineKeyboardButton('ᴘᴀɢᴇ 1/1', callback_data='page'),  
-         ]]
+
 
 
