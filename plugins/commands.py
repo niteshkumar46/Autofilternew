@@ -1,4 +1,4 @@
-import os
+ os
 import logging
 import random
 import asyncio
@@ -1094,3 +1094,28 @@ async def stop_button(bot, message):
     await asyncio.sleep(3)
     await msg.edit("**✅️ 𝙱𝙾𝚃 𝙸𝚂 𝚁𝙴𝚂𝚃𝙰𝚁𝚃𝙴𝙳. 𝙽𝙾𝚆 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝙼𝙴**")
     os.execl(sys.executable, sys.executable, *sys.argv)
+
+
+ 
+InputMediaPhoto(random.choice(PICS))
+        )
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.FEATURES_TXT.format(temp.B_NAME),
+            reply_markup=reply_markup,
+            elif query.data == "features":
+ parse_mode=enums.ParseMode.HTML
+         )
+         buttons = [[ 
+            InlineKeyboardButton('ꜱᴛɪᴄᴋᴇʀ', callback_data='sticker'), 
+             InlineKeyboardButton('ᴛᴇʟᴇɢʀᴀᴘʜ', callback_data='telegraph'),
+         ], [ 
+             InlineKeyboardButton('ᴛᴛꜱ', callback_data='tts'), 
+             InlineKeyboardButton('ꜱᴏɴɢ', callback_data='song'), 
+            ], ] InlineKeyboardButton('ꜱʜᴏʀᴛɴᴇʀ', callback_data='shortlink_info'),
+         ], [
+             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'), 
+             InlineKeyboardButton('ᴘᴀɢᴇ 1/1', callback_data='page'),  
+         ]]
+
+
