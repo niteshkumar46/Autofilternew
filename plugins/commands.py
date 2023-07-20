@@ -3,7 +3,7 @@ import logging
 import random
 import asyncio
 from Script import script
-from pm filter import features 
+from pmfilter import features 
 from pyrogram import Client, filters, enums
 from pyrogram.errors import ChatAdminRequired, FloodWait
 from pyrogram.types import *
