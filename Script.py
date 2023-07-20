@@ -74,7 +74,15 @@ my features Stay here new features coming soon...
 ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</
 code>
 
-./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>"""
+./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>
+
+./song - Download any song [<code>example /song vaa vaathi song</code>]
+
+./telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code>
+
+./tts - <code>This command usage text to voice converter</code>
+
+./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
 <b>ɴᴏᴛᴇ:</b>
