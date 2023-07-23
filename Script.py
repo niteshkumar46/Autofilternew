@@ -5,15 +5,14 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/creatorrio>☢ RIO NETWORKS ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Teamrioupdates>RIO Bot Updates 👾</a></b>
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>
-<b>My best friend❤️ : <a href=(temp.B_NAME)>❤️This person😍</a></b>
-<b>My server🛠️: HEROKU
-<b>My language: Python 
-<b>My database: Mongodb
-<b>✯ Maintained by : <a href=https://t.me/creatorrio>Click here 👾</a></b>"""
+    ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : {} 
+ ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/creatorrio'>RIO NETWORKS</a> 
+ ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
+ ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
+ ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
+ ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>HEROKU</a> 
+ ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
